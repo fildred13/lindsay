@@ -33,6 +33,9 @@
                     <div class="row">
                         <a href="/teaching-cases/sprandel-inc/client/john-sawyer/new-cut-off.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for New Cut-Off Support for Testing</a>
                     </div>
+                    <div class="row">
+                        <a href="/teaching-cases/sprandel-inc/client/john-sawyer/ask-about-issues.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask about Audit Issues</a>
+                    </div>
                 </div>
             </div>  
             <div>

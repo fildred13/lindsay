@@ -28,7 +28,10 @@
                         <a href="/teaching-cases/sprandel-inc/client/meg-black/ar-invoices.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for Sales Invoices</a>
                     </div>
                     <div class="row">
-                        <a href="/teaching-cases/sprandel-inc/client/meg-black/cut-off-error.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask about Issue in Cut-Off Testing</a>
+                        <a href="/teaching-cases/sprandel-inc/client/meg-black/write-off-memos.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for Write-Off Memos</a>
+                    </div>
+                    <div class="row">
+                        <a href="/teaching-cases/sprandel-inc/client/meg-black/ask-about-issues.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask about Audit Issues</a>
                     </div>
                 </div>
             </div>  

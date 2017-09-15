@@ -31,10 +31,10 @@
                         <a href="/teaching-cases/sprandel-inc/client/kate-burke/client-correspondence" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for Client Correspondence for open AR Invoices</a>
                     </div>
                     <div class="row">
-                        <a href="/teaching-cases/sprandel-inc/client/kate-burke/cut-off-error.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask about Issue in Cut-Off Testing</a>
+                        <a href="/teaching-cases/sprandel-inc/client/kate-burke/new-cut-off.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for New Cut-Off Support for Testing</a>
                     </div>
                     <div class="row">
-                        <a href="/teaching-cases/sprandel-inc/client/kate-burke/new-cut-off.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask for New Cut-Off Support for Testing</a>
+                        <a href="/teaching-cases/sprandel-inc/client/kate-burke/ask-about-issues.php" class="btn btn-primary col-xs-8 col-xs-offset-2">Ask about Audit Issues</a>
                     </div>
                 </div>
             </div>  

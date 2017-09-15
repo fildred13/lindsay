@@ -27,13 +27,8 @@
             	<p>To view prepared by client documents that you have previously obtained from your contacts at Sprandel, Inc. (i.e., detailed listings from which samples were chosen, assigned client accounts).</p>
                 <div class="margin-top-bottom">
                   <div class="row">
-                    <a href="/teaching-cases/sprandel-inc/downloads/AR Detail.pdf" target="_blank" class="btn btn-primary col-xs-3 col-xs-offset-1">AR Detail</a>
-                    <p class="col-xs-8">To access the detailed list from which you chose your selections for Accounts Receivable existence testing. The list was obtained from the client.</p>
-                  </div>
-                
-                	<div class="row">
-                    <a href="/teaching-cases/sprandel-inc/audit-evidence/write-off-memos.php" class="btn btn-primary col-xs-3 col-xs-offset-1">Credit Memos</a>
-                    <p class="col-xs-8">To access the credit memos your audit team obtained for write-off testing at the “Write-Offs” tab of the workpapers.</p>
+                    <a href="/teaching-cases/sprandel-inc/downloads/Detailed Listings for AR Testwork.xlsx" target="_blank" class="btn btn-primary col-xs-3 col-xs-offset-1">Detailed Account Listings</a>
+                    <p class="col-xs-8">To access the detailed lists from which samples were selected for testwork, including the Accounts Receivable detailed listing (AR-101A), Write-Off detailed listing (AR-103A), and Early and Late Cutoff detailed listings (AR-104A).</p>
                   </div>
 
                   <div class="row">
