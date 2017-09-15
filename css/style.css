@@ -1,0 +1,101 @@
+/* Lindsay's Custom CSS */
+
+.inset-image {
+	margin-bottom: 10px;
+	margin-right: 15px;	
+}
+
+.row {
+	margin-bottom: 10px;	
+}
+
+.margin-top-bottom {
+	margin-top: 20px;
+	margin-bottom: 20px;	
+}
+
+.margin-left-right {
+	margin-left: 20px;
+	margin-right: 20px;	
+}
+
+.margin-left {
+	margin-left: 10px;	
+}
+
+.margin-right {
+	margin-right: 10px;	
+}
+
+.btn {
+	white-space: normal;
+}
+
+.navbar,
+.dropdown-menu {
+	background-color: #fbb731;
+	background-image: none;
+}
+
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-brand {
+	color: #212121;	
+}
+
+body > .container:nth-child(2) {
+	margin-top: 20px;	
+}
+
+.contact-tile {
+	font-size: 1.3em;
+	position: relative;
+	background-color: #eee;
+	margin: 0 20px 20px 20px;
+	height: 300px;
+	width: 100%;
+	text-align: center;
+	-webkit-transform-style: preserve-3d;
+  	-moz-transform-style: preserve-3d;
+  	transform-style: preserve-3d;
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.contact-tile > div {
+	z-index: 2;
+	position: relative;
+ 	top: 50%;
+	-webkit-transform: translateY(-50%);
+ 	-ms-transform: translateY(-50%);
+ 	transform: translateY(-50%);	
+}
+
+.contact-tile.tile-info {
+	background-image: url("/media/icon-info2.png");
+}
+
+.contact-tile.tile-contact {
+	background-image: url("/media/icon-contact2.png");;
+}
+
+.contact-tile.tile-address {
+	background-image: url("/media/icon-address2.png");
+}
+
+.case-table {
+	margin: 10px;
+}
+
+.case-table,
+.case-table td {
+	border: 1px solid black;
+}
+
+.case-table td {
+	padding: 4px 8px;
+}
+
+.case-table thead td {
+	font-weight: bold;
+}
