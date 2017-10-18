@@ -32,7 +32,7 @@
                         </div>
                         <div class="row">
                             <a href="/teaching-cases/sprandel-inc/firm-guidance/sample-size.php" class="btn btn-primary col-xs-3 col-xs-offset-1">Sample Size</a> 
-                            <p class="col-xs-8">To view audit firm guidance related to sample size materials.</p>
+                            <p class="col-xs-8">To view audit firm guidance related to sample size decisions.</p>
                         </div>
                         <div class="row">
                             <a href="/teaching-cases/sprandel-inc/firm-guidance/errors-found-during-tod.php" class="btn btn-primary col-xs-3 col-xs-offset-1">Tests of Details &mdash; Misstatements</a>

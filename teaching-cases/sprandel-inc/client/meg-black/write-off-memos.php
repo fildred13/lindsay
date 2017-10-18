@@ -31,7 +31,7 @@
                         <div class="col-sm-4 col-sm-offset-1">
                         	<img src="/teaching-cases/sprandel-inc/client/meg-black/headshot.jpg" class="img-responsive" />
                         </div>
-                        <p class="col-sm-7">"If necessary, you should ask the specific account managers (Kate Burke and John Sawyer) for shipping documents and for information on customer correspondence."</p>
+                        <p class="col-sm-7">"Here are the additional write-off memos you requested. Please let me know if you require anything further."</p>
                     </div>
                     
                     <p>Please click on the write-off memo number below to access the corresponding write-off:</p>

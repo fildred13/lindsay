@@ -35,11 +35,7 @@
                     <a href="/teaching-cases/sprandel-inc/downloads/Assigned Client Accounts.pdf" target="_blank" class="btn btn-primary col-xs-3 col-xs-offset-1">Assigned Client Accounts</a>
                     <p class="col-xs-8">To access the detailed list of the account managers’ assigned client accounts.</p>
                   </div>
-                    
-                  <div class="row">
-                    <a href="/teaching-cases/sprandel-inc/audit-evidence/cut-off-detail.php" class="btn btn-primary col-xs-3 col-xs-offset-1">Cut-Off Detail</a>
-                    <p class="col-xs-8">To access the detailed lists from which you chose your selections for cut-off testing. The lists were obtained from the client.</p>
-                  </div>
+
                 </div>
             </div>
           </div>
