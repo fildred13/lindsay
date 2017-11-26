@@ -49,7 +49,7 @@
                         		<a href="/teaching-cases/sprandel-inc/client/kate-burke" class="btn btn-primary col-xs-12">Speak to Kate Burke</a>
                             </div>
                         </div>
-                        <p class="col-sm-7 col-lg-8">You can speak to Kate Burke, Accounting Manager, to obtain shipping documents, client correspondence, cutoff support, and to inquire about any related issues you find during your audit work. Kate Burke oversees the following client accounts: Cold &amp; Sinus Care, Florida Juice Corp, Generic Cola Inc., Jay &amp; Jack's Auto Oil, Mars Liquid Detergents, Olivier's Olive Oil, Sunset Soap, and Soup to Go.</p>
+                        <p class="col-sm-7 col-lg-8">You can speak to Kate Burke, Account Manager, to obtain shipping documents, client correspondence, cutoff support, and to inquire about any related issues you find during your audit work. Kate Burke oversees the following client accounts: Cold &amp; Sinus Care, Florida Juice Corp, Generic Cola Inc., Jay &amp; Jack's Auto Oil, Mars Liquid Detergents, Olivier's Olive Oil, Sunset Soap, and Soup to Go.</p>
                     </div>
                     
                     <div class="row">
@@ -61,7 +61,7 @@
                         		<a href="/teaching-cases/sprandel-inc/client/john-sawyer" class="btn btn-primary col-xs-12">Speak to John Sawyer</a>
                             </div>
                         </div>
-                        <p class="col-sm-7 col-lg-8">You can speak to John Sawyer, Accounting Manager, to obtain shipping documents, client correspondence, cutoff support, and to inquire about any related issues you find during your audit work. John Sawyer oversees the following client accounts: Alligator Aid, The Bath &amp; Body Shop, Diet Water, Jug O Wine, Penns Oil, Petrol UK, Scent of a Pet, and Soupy Soap.</p>
+                        <p class="col-sm-7 col-lg-8">You can speak to John Sawyer, Account Manager, to obtain shipping documents, client correspondence, cutoff support, and to inquire about any related issues you find during your audit work. John Sawyer oversees the following client accounts: Alligator Aid, The Bath &amp; Body Shop, Diet Water, Jug O Wine, Penns Oil, Petrol UK, Scent of a Pet, and Soupy Soap.</p>
                     </div>
                     
                 </div>

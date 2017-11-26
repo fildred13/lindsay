@@ -28,7 +28,7 @@
                         <div class="col-sm-4 col-sm-offset-1">
                         	<img src="/teaching-cases/sprandel-inc/client/meg-black/headshot.jpg" class="img-responsive" />
                         </div>
-                        <p class="col-sm-7">"Regarding the missing signature on memo #2178, I was on vacation the week that this write-off was processed. Kate Burke had faxed me the supporting documentation to ask about processing the write-off. I reviewed those materials and faxed back the fax cover-page with a note and approval signature, I should have attached that to the memo. Typically, when I return I will officially sign the write-off memo for our records, but somehow I must have missed this one. The fax is attached."</p>
+                        <p class="col-sm-7">"Regarding the missing signature on memo #2178, I was on vacation the week that this write-off was processed. Kate Burke faxed me the supporting documentation to ask about processing the write-off. I reviewed those materials and faxed back the fax cover page with a note and approval signature. I should have attached that to the credit memo. Typically, when I return I will officially sign the write-off memo for our records, but somehow I must have missed this one. The fax is attached."</p>
                         <a href="/teaching-cases/sprandel-inc/downloads/corrections/Fax Support 2178.pdf" target="_blank" class="btn btn-primary pull-right">Fax Support</a>
                     </div> 
                 </div>

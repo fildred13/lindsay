@@ -28,7 +28,7 @@
                         <div class="col-sm-4 col-sm-offset-1">
                         	<img src="/teaching-cases/sprandel-inc/client/john-sawyer/headshot.jpg" class="img-responsive" />
                         </div>
-                        <p class="col-sm-7">"I am sorry for that error. I asked our AR intern to pull the shipping documents for me, I should have double-checked that she pulled the right ones. Here is the correct one."</p>
+                        <p class="col-sm-7">"I am sorry for that error. I asked our AR intern to pull the shipping documents for me. I should have double-checked that she pulled the right ones. Here is the correct one."</p>
                         <a href="/teaching-cases/sprandel-inc/downloads/corrections/41786 (SD 34131).pdf" target="_blank" class="btn btn-primary pull-right">Correct Shipping Document</a>
                     </div> 
                 </div>
