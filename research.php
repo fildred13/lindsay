@@ -19,7 +19,7 @@
     <div class="jumbotron">
     	<div class="container">
         	<h1>Research</h1>
-            <p>My research is primarily focused on auditor interactions specifically those involving coaching and training of auditors. This interest in coaching and training extends to the classroom where I also work to create teaching cases that help students learn using "real world" audit techniques.</p>
+            <p>My research is primarily focused on firm quality control initiatives including formal training, audit review, on-the-job coaching and performance appraisal. This interest in training and coaching extends to the classroom where I also work to create teaching cases that help students learn using "real world" audit techniques. I have published articles in <i>Accounting, Organizations, and Society</i>, <i>Auditing: A Journal of Practice &amp; Theory</i>, <i>Behavioral Research in Accounting</i>, <i>Issues in Accounting Education</i>, and the <i>Journal of Accounting Literature.</i></p>
         </div>
     </div>
     
