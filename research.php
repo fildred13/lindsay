@@ -25,7 +25,7 @@
     
     <div class="container" role="main">
 
-        <a href="/media/downloads/Andiola_vita_06_26_2018.pdf" class="btn btn-lg btn-primary margin-top-bottom">Curriculum Vitae</a>
+        <a href="/media/downloads/Andiola_vita.pdf" class="btn btn-lg btn-primary margin-top-bottom">Curriculum Vitae</a>
 
     </div><!-- role="main" -->
 
