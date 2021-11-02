@@ -18,16 +18,20 @@
 
     <div class="jumbotron">
     	<div class="container">
-            <h1>Lindsay Andiola</h1>
-            <p>Prepare your brains, nerds.</p>
+            <h1>Lindsay M. Andiola, Ph.D., CPA <i>(inactive)</i></h1>
+            <p>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." -- Albert Schweitzer</p>
         </div>
     </div>
     
     <div class="container" role="main">
-    	
-    	<h2>How did I get here?!?</h2>
-        <p><img src="/media/lindsay_headshot.jpg" class="img-responsive inset-image" align="left" width="200"/>Well I definitely didn't grow up dreaming of being an Accounting Professor. I think for most of my young life I dreamed of being an Olympic swimmer, then sometime in high school I started to think that perhaps this dream just was not meant to be. When looking at colleges, I knew I wanted to study business. Probably because I watched my mom build her own business, I saw her passion and I wanted to have that too. I ended up at American University, partly because it was in D.C., partly because I still wanted to swim, and partly because they had a solid business school. I was drawn to finance and accounting, I was good at it and I figured if I know how to do this stuff, I can use these skills in any organization. I worked hard, got an internship with KPMG in their assurance practice in Washington, DC, and I was offered a full-time position when I graduated. All I could think was wow this is so awesome I have a job and I get to actually make money. My role at KPMG took me all over the U.S., I made it through several busy seasons on both corporate and federal government clients, managed to find some time to get my CPA, and lucky me, I found my husband out in Colorado Springs during my second year staff associate training. However, after 3 or so years in public accounting, I knew it just was not where I saw myself when I looked ahead twenty years from now. I wanted to feel part of something to build something, I thought. So I switched sides and found myself working at a private equity firm in New York City handling much of the accounting for both the management company and the funds. Fast forward another 3 years and I still had this feeling that this was not where I should be. I wanted to be challenged, to continuously learn, to feel rewarded by the work I was doing, and so it was back to school for me to get my PhD. Four years flew by, although day-to-day I questioned whether I was going to make it through, but I did! And so, here I am, an Assistant Professor of Accounting at Virginia Commonwealth University. I teach undergraduate auditing, the PhD auditing seminar, and spend much of my time working on research to understand and improve feedback and coaching in public accounting firms. I also love trying to innovate in the classroom with experiential learning cases that help my students connect the boring book knowledge with tasks and cases that let the students see the "real world" of auditing. I love what I do (although some days I hate it). The energy you feel when working with students is amazing and I do not know another career where you truly get to choose who you work with, when you work, and what you work on.</p>
-        
+    	 <h2><img src="/media/lindsay_headshot.jpg" class="img-responsive inset-image" align="left" width="200"/>Biography</h2>
+        <p>I am an Assistant Professor of Accounting at Virginia Commonwealth University. My research interests include audit firm quality control initiatives, auditor-auditor interactions, audit firm culture, and auditor professional development. My interest in professional development extends to the undergraduate audit classroom where I have developed a number of teaching cases that help students learn using "real world" audit techniques. My work is published in <i>Accounting, Organizations, and Society</i>, <i>Accounting Horizons</i>, <i>Auditing: A Journal of Practice &amp; Theory</i>, <i>Behavioral Research in Accounting</i>, and <i>Issues in Accounting Education</i>. My research has been supported by awards from the CAQ Access to Audit Personnel and VCU’s Quest for Distinction.</p>
+        <p>I have also been recognized by the VCU School of Business as a Summer Research Fellow.</p>
+        <p>My undergraduate and graduate education include receiving a Bachelor of Science in Business Administration with concentrations in Accounting and Finance from American University in 2005 and completing my Ph.D. in Accountancy at Bentley University in 2015. During the Ph.D. program, I was an AICPA Accounting Doctoral Scholar. Prior to entering a doctoral program, I spent three years with KPMG as an auditor and three years in corporate accounting at a private equity firm in NYC.</p>
+
+        <h2>Personal</h2>
+        <p>I live in Richmond, VA with my husband, John, and our three children, Lucas, Vivian, and Henry. I am an avid runner, and I enjoy coaching soccer and love to travel and go on adventures (both close and far) with my family.</p>
+
     </div><!-- role="main" -->
 
 	<?php include($root."/includes/end_of_body.html"); ?>

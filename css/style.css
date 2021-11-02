@@ -99,3 +99,9 @@ body > .container:nth-child(2) {
 .case-table thead td {
 	font-weight: bold;
 }
+
+@media screen and (min-width: 768px){
+    .jumptron .h1, .jumbotron h1 {
+        font-size: 36px;
+    }
+}
