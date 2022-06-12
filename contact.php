@@ -19,7 +19,7 @@
     <div class="jumbotron">
     	<div class="container">
         	<h1>Contact Me</h1>
-            <p>Lindsay Andiola, Assistant Professor, Virginia Commonwealth University</p>
+            <p>Lindsay Andiola, Associate Professor, Virginia Commonwealth University</p>
         </div>
     </div>
     
@@ -38,7 +38,7 @@
         	<div class="contact-tile tile-address">
             	<div>
                     <p>Virginia Commonwealth University<br/>
-                    Snead Hall, Room B3127<br/>
+                    Snead Hall, Room B3113<br/>
                     301 West Main Street<br/>
                     PO Box 844000<br/>
                     Richmond, VA 23284</p>

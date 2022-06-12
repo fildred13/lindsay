@@ -43,7 +43,7 @@
             </ul>
             <p>To obtain these case materials proceed to: <a href="https://doi.org/10.2308/ISSUES-2020-037" target="_blank">https://doi.org/10.2308/ISSUES-2020-037</a></p>
 
-            <p>Citation: Andiola, L. M., Downey, D. H., Earley, C. E. and Jefferson, D. 2021. Wealthy Watches Inc.: The substantive testing of accounts receivable in the evolving audit environment. <i>Issues in Accounting Education</i> (forthcoming). </p>
+            <p>Citation: Andiola, L. M., Downey, D. H., Earley, C. E. and Jefferson, D. 2021. Wealthy Watches Inc.: The substantive testing of accounts receivable in the evolving audit environment. <i>Issues in Accounting Education</i> 37 (2): 37-51.</p>
         </div>
     
     </div><!-- role="main" -->
