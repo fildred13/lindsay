@@ -35,6 +35,8 @@
             <p>To obtain these case materials proceed to: <a href="https://doi.org/10.2308/iace-51973" target="_blank">https://doi.org/10.2308/iace-51973</a></p>
 
             <p>Citation: Hess, M., and Andiola, L. M. 2018. Fraud risk brainstorming at Tesla Motors. <i>Issues in Accounting Education</i> 33 (2): 19-34.</p>
+
+            <p><b>2023 Case Update:</b> The background information for the case has been updated to reflect a 2023 brainstorming session for Tesla. Please click <a href="media/Tesla Case_10_01_2023.pdf" target="_blank">here</a>. See the original case and teaching notes for additional supporting documents. If you note any errors in the content of the 2023 case please let me know, as this remains a working update as of now.</p>
         </div>
     
     </div><!-- role="main" -->

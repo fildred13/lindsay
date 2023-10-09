@@ -26,7 +26,7 @@
     <div class="container" role="main">
 
         <h2>Research Profile</h2>
-        <a href="/media/downloads/Andiola_vita.pdf" class="btn btn-lg btn-primary margin-top-bottom">Curriculum Vitae</a>
+        <a href="https://docs.google.com/document/d/1gXqOAfHHPL8vMLiDp5zEz5nbojk9HNbQ/edit?usp=sharing&ouid=116303155046069647492&rtpof=true&sd=true" class="btn btn-lg btn-primary margin-top-bottom">Curriculum Vitae</a>
         <a href="https://scholar.google.com/citations?user=9Q-fW18AAAAJ&hl=en" class="btn btn-lg btn-primary margin-top-bottom">Google Scholar Profile</a>
 
         <h2>Connecting Research to Practice</h2>
